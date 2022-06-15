@@ -1,0 +1,53 @@
+@media only screen and (max-width:768px) {
+
+            .welcomePage {
+              background-color:var(--white-color);
+              background-image: url(../images/priv.png);
+              background-size:100px ;
+              background-repeat: no-repeat;
+              background-position:center left;
+              display: flex;
+              justify-content: space-between;
+              height: 200px;
+              margin-left:50px;
+            }
+            .banner-container {
+              background-color:#a7dbfc;
+              padding: 20px 0;
+              flex-basis: 100%;
+              background-image: url(../images/sfm.png);
+              background-repeat: no-repeat;
+              background-position:0% 50% ;
+              background-size:140px ;
+            
+            }
+
+            .footer-container {
+              background-color:#93cdf1;
+              padding: 20px 0;
+              flex-basis: 100%;
+              margin-bottom:0px ;
+            
+              text-align:center;
+            clear:both;
+            
+              
+            }
+            .rightBox {
+              display: flex;
+              flex: 0 1 40%;
+              justify-content:center;
+              align-items: center;
+              margin-left:300px ;
+            }
+            }
+
+
+                      
+
+  
+ 
+
+
+
+  
